@@ -6,3 +6,4 @@
 * comando git fetch
 
 ## Gravando mudanças no repositório
+* comando git restore
